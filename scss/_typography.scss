@@ -1,4 +1,3 @@
-// Base Typography Styles
 body {
   font-family: $body-font-family;
   font-size: $base-font-size;
@@ -8,7 +7,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font-family;
-  color: $primary-color;
+  color: $color2;
   margin-bottom: 1rem;
 }
 

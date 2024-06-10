@@ -1,11 +1,9 @@
-// Mixin for Flex Center
 @mixin flex-center {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-// Mixin for Button Styles
 @mixin button-styles($bg-color, $font-color) {
   background-color: $bg-color;
   color: $font-color;

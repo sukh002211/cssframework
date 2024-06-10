@@ -1,9 +1,12 @@
-// Button Styles
 .btn {
-  @include button-styles($primary-color, #fff);
+  @include button-styles($color2, #fff);
 
   &--secondary {
-    @include button-styles($secondary-color, #fff);
+    @include button-styles($color4, #fff);
+  }
+
+  &--tertiary {
+    @include button-styles($color5, #fff);
   }
 
   &--small {

@@ -9,4 +9,4 @@ This CSS framework provides a custom theme for standard HTML elements including 
 3. Compile the SCSS to CSS using Dart Sass or any other preferred tool.
 
 ```bash
-npx sass scss/main.scss css/main.css
+sass scss/main.scss css/main.css
