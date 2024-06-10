@@ -1,0 +1,71 @@
+body {
+  font-family: "Georgia, serif";
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Arial, sans-serif";
+  color: #3498db;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+.btn {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.btn:hover {
+  background-color: #217dbb;
+}
+.btn--secondary {
+  background-color: #2ecc71;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.btn--secondary:hover {
+  background-color: #25a25a;
+}
+.btn--small {
+  padding: 5px 10px;
+  font-size: 0.875rem;
+}
+.btn--large {
+  padding: 15px 30px;
+  font-size: 1.125rem;
+}
+
+/*# sourceMappingURL=main.css.map */
